@@ -4,3 +4,6 @@
 [submodule "vim-sensible"]
 	path = vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "neoformat"]
+	path = neoformat
+	url = https://github.com/sbdchd/neoformat.git
